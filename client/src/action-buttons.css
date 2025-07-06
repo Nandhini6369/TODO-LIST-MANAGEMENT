@@ -1,0 +1,16 @@
+
+.action-buttons {
+  display: flex;
+  gap: 0.5rem;
+  min-width: 200px; /* Slightly wider for clarity */
+  justify-content: center;
+  background: #f5f7fa; /* Light background for separation */
+  border-radius: 8px;
+  padding: 0.25rem 0.5rem;
+  border: 1.5px solid #e0e0e0;
+}
+
+.action-buttons button {
+  flex: 1 1 0;
+  min-width: 60px;
+}

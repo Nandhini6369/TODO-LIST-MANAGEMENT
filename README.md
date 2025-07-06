@@ -2,9 +2,11 @@ TODO-LIST-MANAGEMENT Hackathon Conducted by Katomaran.
 
 File Structure Of My Project:
 
-![image](https://github.com/user-attachments/assets/a75c6926-9d2b-4024-a7b4-32a0dcdc9395)
+![Screenshot 2025-07-06 175808](https://github.com/user-attachments/assets/3c485420-f977-4af8-a3c7-87db88e60845)
 
-![image](https://github.com/user-attachments/assets/d4a6b314-c6a3-40b4-aecd-ee3942a4d57a)
+
+![Screenshot 2025-07-06 175738](https://github.com/user-attachments/assets/1b2e55f2-f063-4a9e-93c4-e253a0038e23)
+
 
 
 
@@ -34,24 +36,29 @@ Step 2: Navigate to Backend
 2. npm run dev
 
 This my 1st Page of My Project :
-![image](https://github.com/user-attachments/assets/f5d8f8b1-8076-4f96-ae0f-1ff0d91be488)
+![Screenshot 2025-07-06 173427](https://github.com/user-attachments/assets/b1d93011-8b33-4ff8-9e5c-d8a447c630b5)
+
 
 After the Successfull Login By GOOGLE:
-![image](https://github.com/user-attachments/assets/11791c18-0839-4223-bc9f-47f6d5ceb308)
+![Screenshot 2025-07-06 173548](https://github.com/user-attachments/assets/43ee865b-b253-4bb9-a6c3-fab31f0b5caa)
+
 
 All CRUD operations are done Adding the new Task,editing the task and delete the task Are all Done..!!
 
 For An Example, i'm Adding the title as Blood Management and Description as Checking the blood status.
 it Successfully Adding..!!
-![image](https://github.com/user-attachments/assets/02bab405-f6b9-47fa-b1a3-e461a43e21e0)
+![Screenshot 2025-07-06 173908](https://github.com/user-attachments/assets/f8d195b4-094e-43f8-8df7-78fd9e6bad43)
+
 
 For an example i had updated the Blood management has Blood System.
 It Sucessfully Updated..!!
-![image](https://github.com/user-attachments/assets/22bc4d9a-d763-43f0-b99b-923b51b2e6ac)
+![Screenshot 2025-07-06 174109](https://github.com/user-attachments/assets/412e2bcb-d16e-4a72-8b62-52412be94e71)
+
 
 Now i'm Deleting the Blood System.
 Delete operation also successfully Done.!!
-![image](https://github.com/user-attachments/assets/c615e335-58b9-4211-b89e-debfbc38cbd5)
+![Screenshot 2025-07-06 174233](https://github.com/user-attachments/assets/7f02ab74-ab3b-4f26-8a20-ce792a3c7988)
+
 
 FEATURES OF MY PROJECT:
 
@@ -61,15 +68,15 @@ FEATURES OF MY PROJECT:
 
 3.Searching Options in My Project:
 
-![image](https://github.com/user-attachments/assets/f897bcbf-762c-4b0b-9377-b53a82cdc17c)
+![Screenshot 2025-07-06 174413](https://github.com/user-attachments/assets/1773233e-98f9-40c8-8c76-d7e9dbf7de30)
 
 4.Share the Task to other User's:
 
-![image](https://github.com/user-attachments/assets/2ac00c5d-5696-43d4-b3fa-e88b4c285a6f)
+![Screenshot 2025-07-06 174726](https://github.com/user-attachments/assets/60ef776e-3c75-430f-84dc-1b4660460360)
 
 After Hitting the share button successfully shared..!!
 
-![image](https://github.com/user-attachments/assets/20dad539-0273-4e46-8718-daba5cd9e3f4)
+![Screenshot 2025-07-06 174858](https://github.com/user-attachments/assets/30552dcf-27e6-492a-b888-7e703347a49e)
 
 ========================================= LOGOUT=========================================
 
